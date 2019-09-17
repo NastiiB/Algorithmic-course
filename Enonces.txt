@@ -1,0 +1,37 @@
+== Fondamentaux JavaScript ==
+Exercice 2.1 
+	Ecrire un programme qui demande un nombre à l’utilisateur, puis qui calcule et  affiche le carré de ce nombre. 
+
+Exercice 2.2 
+	Ecrire un programme qui demande le prix HT d’un article, le nombre d’articles et le taux de TVA, puis qui fournit le prix total TTC correspondant.
+
+Exercice 2.3 
+	Modifier le programme de l'exercice 2.2 afin d'isoler le calcul du prix total dans une fonction et utiliser cette fonction.
+
+== Tests ==
+Exercice 3.1 
+	Ecrire un programme qui demande l’âge d’un enfant à l’utilisateur. Ensuite, il l’informe de sa catégorie :  
+		• "Poussin" de 6 à 7 ans  
+		• "Pupille" de 8 à 9 ans  
+		• "Minime" de 10 à 11 ans  
+		• "Cadet" après 12 ans
+
+== Boucles ==
+Exercice 4.1 
+	Ecrire un programme qui fait deviner un nombre entre 1 et 100, à l'aide de la fonction Math.random() qui renvoie un nombre compris dans l'intervalle [0,1[.
+
+== Tableaux ==
+Exercice 5.1 
+	Ecrire un algorithme qui déclare un tableau de 9 notes, dont on fait ensuite saisir les valeurs par l’utilisateur. 
+	Le programme affiche ensuite la moyenne de ces notes.
+
+Exercice 5.2
+	Ecrire un algorithme permettant à l’utilisateur de saisir un nombre déterminé de valeurs. Le programme, une fois la saisie terminée, renvoie la plus grande valeur en précisant quelle position elle occupe dans le tableau. 
+	On prendra soin d’effectuer la saisie dans un premier temps, et la recherche de la plus grande valeur du tableau dans un second temps. 
+
+== Chaînes de caractères ==
+Exercice 6.1 
+	Ecrire un programme qui demande une phrase à l’utilisateur et qui affiche à l’écran le nombre de mots de cette phrase. On suppose que les mots sont toujours séparés par un seul et unique espace.
+
+Exercice 6.2 
+	Ecrire un programme qui demande une phrase à l’utilisateur et qui affiche à l’écran le nombre de voyelles contenues dans cette phrase. 

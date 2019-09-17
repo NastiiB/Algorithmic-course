@@ -1,8 +1,0 @@
-Exercice 2.1 
-	Ecrire un programme qui demande un nombre à l’utilisateur, puis qui calcule et  affiche le carré de ce nombre. 
-
-Exercice 2.2 
-	Ecrire un programme qui demande le prix HT d’un article, le nombre d’articles et le taux de TVA, puis qui fournit le prix total TTC correspondant.
-
-Exercice 2.3 
-	Modifier le programme de l'exercice 2.2 afin d'isoler le calcul du prix total dans une fonction et utiliser cette fonction.
