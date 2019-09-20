@@ -5,7 +5,3 @@ var VAT = parseFloat(prompt('Veuillez saisir le taux de TVA'));
 var price = unitPrice*number + unitPrice*number*VAT;
 
 alert('Le prix total est : ' + price.toFixed(2));
-
-function calculatePrice(unitPrice, numberOfUnit, VAT) {
-  return unitPrice*numberOfUnit + unitPrice*numberOfUnit*VAT;
-}
