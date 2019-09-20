@@ -15,7 +15,9 @@ C --> B
 > dans cet éditeur : https://mermaidjs.github.io/mermaid-live-editor )
 
 I/O : entrées/sorties. Par exemple : clavier, souris, écran, autres périphériques, ...
+
 CPU : le microprocesseur
+
 Mémoire : elle contient à la fois les données et les programmes les manipulant.
 
 Cette architecture se distingue des précédentes en utilisant une mémoire unique partagée entre les données et les programmes.
@@ -29,9 +31,11 @@ Pour répondre à nos besoins, il est nécessaire de représenter des données p
 #### Les nombres
 Pour les nombres, une conversion existe entre ce que l'on nomme la base dix et la base deux.
 La base 10 utilise les chiffres de 0 à 9. Un nombre n'est autre que l'addition de multiples de puissances de 10 :
+
 	146 = 1*10² + 4*10¹ + 6*10º
 
 La base 2 utilise les chiffres 0 et 1. Un nombre est alors l'addition de multiples de puissances de 2 :
+
 	46 = 32 + 8 + 4 + 2 = 1*2^5 + 0*2 ^4 + 1*2³ + 1*2² + 1*2¹ + 0*2º
 	soit en binaire 101110
 	
